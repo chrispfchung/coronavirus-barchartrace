@@ -1,4 +1,4 @@
-# The Coronavirus Bar Chart Race - The Race You Don't Want to Win
+## The Coronavirus Bar Chart Race - The Race You Don't Want to Win
 
 To read my full write up, check out my Medium blog post (Friends link): "https://medium.com/@chrispfchung/the-coronavirus-bar-chart-race-the-race-you-dont-want-to-win-1ce2aef80310?source=friends_link&sk=ae5c33c2efca45fae0f527b4a4669692"
 
